@@ -4,7 +4,7 @@
 
 This repo contains a blog post documenting the end-to-end implementation of [CEBRA](https://cebra.ai) (Schneider, Lee & Mathis, *Nature* 2023) using an NVIDIA A100 GPU and Claude as an AI co-pilot. The entire implementation — from reading the paper to verified topological analysis — was completed in under 2 hours.
 
-🔗 **Live site**: *[your-vercel-url.vercel.app]*
+🔗 **Live site**: https://cebra-blog.vercel.app/
 
 ---
 
